@@ -43,6 +43,8 @@ A complete 1000-word blog article.
 
 ![Output](output.jpeg)
 
+## Future Improvements
+
 * Form-based input
 * Google Docs export
 * WordPress publishing
